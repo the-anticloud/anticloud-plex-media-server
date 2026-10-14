@@ -1,0 +1,25 @@
+# Commitment to Society — PLEX_MEDIA_SERVER
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** PLEX_MEDIA_SERVER | Category: MOVIES_MEDIA
+**Upstream:** https://github.com/nicedoc/Plex-Media-Server (GPL)
+
+## Overview
+
+This document covers commitment to society for the Anticloud integration of PLEX_MEDIA_SERVER.
+
+(swap) Use: github.com/nicedoc/emby-server — Emby media server
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into PLEX_MEDIA_SERVER to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg

@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: MOVIES_MEDIA/PLEX_MEDIA_SERVER
+# records: 5
+# head: fbd5c6c81bb1a78466b09190e61defb5b78c6996177b91b15d3ef9155b331a70
+{"digest": "60c9da01741f852abafd6444814a2228b8575279b66ed080898e53a5d9edf2dd", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "b65926e03316ad5748f5ca16ca1abb457043853a33e9e791680844b377b1a6d5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:53:39Z"}
+{"digest": "f8aca3d45fcb24f77c8813baeee4d594f6051f7b0fdc3cc822d3f246950362a7", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "cad732f483406d486fd0a86d55abf21e8ddf4f407eea1d1507ce0f167c964ee0", "prev": "60c9da01741f852abafd6444814a2228b8575279b66ed080898e53a5d9edf2dd", "seq": 1, "ts": "2026-10-09T05:53:39Z"}
+{"digest": "b3be10e922ff81fb891edcdc5b0965ef11fa940014c1bcc6347a46e73ddd9224", "kind": "readme", "path": "README.md", "payload_sha3": "b683784c5667c165fcd95dc68e18badfe6e960a19c6570b3799df2204b5691ee", "prev": "f8aca3d45fcb24f77c8813baeee4d594f6051f7b0fdc3cc822d3f246950362a7", "seq": 2, "ts": "2026-10-09T05:53:39Z"}
+{"digest": "0d89287888b48f9cb982c4bf7c58ab6d00cd1a31481ab42044e0398fc557da6d", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "887ba523f328efcc5c0d54ace4418c19ed6d0cf7309710ebb6a69eb1f69e0be1", "prev": "b3be10e922ff81fb891edcdc5b0965ef11fa940014c1bcc6347a46e73ddd9224", "seq": 3, "ts": "2026-10-09T05:53:39Z"}
+{"digest": "fbd5c6c81bb1a78466b09190e61defb5b78c6996177b91b15d3ef9155b331a70", "kind": "notice", "path": "NOTICE", "payload_sha3": "e6cbac5107df17efb2e48bb3d540b4c4d4dbb7e097a39b3d37457bb915e4fb53", "prev": "0d89287888b48f9cb982c4bf7c58ab6d00cd1a31481ab42044e0398fc557da6d", "seq": 4, "ts": "2026-10-09T05:53:39Z"}
