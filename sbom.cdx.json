@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:1ab8acc3-1472-53c6-b602-e2905dcfda5f",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-11T05:20:46Z",
+    "component": {
+      "type": "application",
+      "name": "PLEX_MEDIA_SERVER",
+      "version": "d02db4b26157",
+      "bom-ref": "pkg:generic/anticloud/PLEX_MEDIA_SERVER@d02db4b26157",
+      "purl": "pkg:generic/anticloud/PLEX_MEDIA_SERVER@d02db4b26157",
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "d02db4b261577013d96f54804c88795ff618d06a"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/anticloud-plex-media-server.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
